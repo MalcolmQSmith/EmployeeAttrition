@@ -3,7 +3,7 @@
 ## Description
 Analyzing employee attrition data for HR from Kaggle dataset to determine how to better retain employees using SQL and visualized results using PowerBI
 
-## Installaion
+## Installation
 
 To view the SQL queries, we will be using SQL Server and download the Employee Attrition dataset from Kaggle (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 
